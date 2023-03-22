@@ -6,7 +6,7 @@ categories: [ programming, tutorial, project ]
 tags: [jekyll, blog]
 image: assets/images/aiblog/1.jpg
 description: "So this winter I decided to use my programming knowledge to create a gym buddy for myself."
-featured: true
+featured: false
 hidden: false
 ---
 

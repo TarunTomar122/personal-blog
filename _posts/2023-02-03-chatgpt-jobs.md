@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Why ChatGPT isn't going to take away your job (but someone else might)"
+title:  "ChatGPT won't replace you but someone else might"
 author: Tarun
 categories: [ programming, chatgpt, ai ]
 tags: [tech, blog]
 image: assets/images/chatgpt/1.png
 description: "According to Google Trends, the interest in ChatGPT is at its all time peak right now."
-featured: true
+featured: false
 hidden: false
 ---
 
